@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 200px; overflow: hidden;">
-  <img src="banner_crop.png" alt="github banner" style="width: 100%; object-fit: cover; object-position: center;">
+  <img src="banner_only.png" alt="github banner" style="width: 100%; object-fit: cover; object-position: center;">
 </div>
 <br>
 <h1>Hello World! 👋, I'm Aman Kumar</h1>
