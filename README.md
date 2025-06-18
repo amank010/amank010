@@ -42,7 +42,7 @@
     </td>
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amank010&" alt="amank010" /> -->
-    <img src="https://streak-stats.demolab.com?user=amank010" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amank010" alt="GitHub Streak" /></a>
   </td>
   </tr>
 </table>
