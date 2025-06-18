@@ -41,15 +41,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=amank010&show_icons=true&locale=en" alt="amank010" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amank010&" alt="amank010" />
-    </td>
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amank010&" alt="amank010" /> -->
+    <img src="https://streak-stats.demolab.com?user=amank010" alt="GitHub Streak" /></a>
+  </td>
   </tr>
 </table>
 
-
-
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amank010" alt="amank010" /></a></p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amank010/amank010/output/github-snake-dark.svg" />
